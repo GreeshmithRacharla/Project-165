@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monster Hunter dragon
+* source:	https://sketchfab.com/3d-models/monster-hunter-dragon-3efb94ddc21341808adcd33ba8507eb0
+* author:	Pobaby (https://sketchfab.com/Pobaby)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monster Hunter dragon" (https://sketchfab.com/3d-models/monster-hunter-dragon-3efb94ddc21341808adcd33ba8507eb0) by Pobaby (https://sketchfab.com/Pobaby) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
